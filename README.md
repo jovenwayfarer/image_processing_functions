@@ -1,6 +1,6 @@
 # image_processing_functions
 functions implemented for "Image processing" course
-/n
+\n
 function  new_image  = bilinear_black_and_white( I,ratio )
 I - input image
 ratio - (new_image_size=old_image_size*ratio) any positive real number
