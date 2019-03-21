@@ -1,5 +1,5 @@
-# image_processing_functions
-functions implemented for "Image processing" course
+# image_processing_functions<br />
+functions implemented for "Image processing" course<br />
 <br />
 function  new_image  = bilinear_black_and_white( I,ratio )<br />
 I - input image<br />
